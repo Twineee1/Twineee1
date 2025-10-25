@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to finish a project without starting another
 - 💞️ I’m looking to collaborate on my projects (;
-- 📫 How to reach me: You can email me twineee@tutamail.com or apersondotcom@outlook.com
+- 📫 How to reach me: You can email me twineee@tutamail.com.
 - 😄 Pronouns: he/hymn
 - ⚡ Fun fact: Did you know that all computers will [end in 2038](https://en.wikipedia.org/wiki/Year_2038_problem)?
 
